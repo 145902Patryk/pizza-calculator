@@ -1,1 +1,1 @@
-# pizza-calculator
+# Pizza calculator
